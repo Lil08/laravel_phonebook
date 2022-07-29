@@ -8,5 +8,4 @@ use Illuminate\Database\Eloquent\Model;
 class Phonebook extends Model
 {
     use HasFactory;
-
 }
